@@ -1,0 +1,13 @@
+name = without_drush
+description = Slim bleeding edge starterkit. Uses LibSass instead of the Ruby Sass preprocessor.
+base theme=omega
+screenshot = screenshot.png
+engine = phptemplate
+core = 7.x
+
+; Styles
+stylesheets[all][] = css/without_drush.reset.css
+stylesheets[all][] = css/without_drush.styles.css
+
+; Scripts
+scripts[] = js/without_drush.behaviors.js

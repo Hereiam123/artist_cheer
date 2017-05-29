@@ -1,0 +1,11 @@
+[09-Jun-2016 01:05:45 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/process/page.process.inc on line 6
+[09-Jun-2016 01:05:47 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/process/page.process.inc on line 6
+[09-Jun-2016 01:05:53 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/process/page.process.inc on line 6
+[09-Jun-2016 01:08:36 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/preprocess/page.preprocess.inc on line 6
+[09-Jun-2016 01:08:43 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/preprocess/page.preprocess.inc on line 6
+[09-Jun-2016 01:08:44 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/preprocess/page.preprocess.inc on line 6
+[09-Jun-2016 01:08:45 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/preprocess/page.preprocess.inc on line 6
+[09-Jun-2016 01:08:45 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/preprocess/page.preprocess.inc on line 6
+[09-Jun-2016 01:08:45 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/preprocess/page.preprocess.inc on line 6
+[09-Jun-2016 01:08:45 America/New_York] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home/bdemaio345/public_html/artistcheer/sites/all/themes/without_drush/preprocess/page.preprocess.inc on line 6
+[16-Jun-2016 06:42:10 UTC] PHP Fatal error:  Class 'PDO' not found in /home/bdemaio345/public_html/artistcheer/includes/database/database.inc on line 187
